@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.Js etc.**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-liart-two-62.vercel.app/](https://portfolio-liart-two-62.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-sigma-ivory-65.vercel.app/](https://portfolio-sigma-ivory-65.vercel.app/)
 
 - 💬 Ask me about **JS , HTML,CSS**
 
